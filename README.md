@@ -5,7 +5,9 @@ Steam游戏观察站是一款面向独立游戏开发者、发行人员和数据
 # Steam Game Observatory
 
 Steam Game Observatory is a Windows desktop tool for indie game developers, publishers, and data researchers. It helps track Steam game trends, prices, reviews, media assets, and estimated revenue changes over time.
+
 <img width="1497" height="1022" alt="4f8262ab4d9b246a2fa63458a51481ec" src="https://github.com/user-attachments/assets/a045a213-6187-4dc2-afc9-39b13a346f2c" />
+https://www.bilibili.com/video/BV1R2Gp6pEFG/
 
 ## 核心功能
 
